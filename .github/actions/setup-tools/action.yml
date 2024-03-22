@@ -1,4 +1,4 @@
-name: Setup Tools
+name: Set up tools
 description: Common setup for CI tools
 
 inputs:
