@@ -1,0 +1,15 @@
+[package]
+name = "template-rust"
+description = ""
+authors = ["Ragkit <hi@ragkit.com>"]
+version = "0.0.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+anyhow = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+
+[lib]
+path = "src/lib.rs"
