@@ -32,6 +32,17 @@
   - `just build`
   - `just test`
 
+## Recommended Setup
+
+GitHub repo settings:
+
+- [ ] Only "Allow squash merging"
+- [ ] Automatically delete head branches
+- [ ] Create basic ruleset on default branch
+  - restrict deletions
+  - require pull requests
+  - block force pushes
+
 # Contributing
 
 [CONTRIBUTING.md](./CONTRIBUTING.md)
