@@ -1,5 +1,5 @@
 [package]
-name = "template-rust"
+name = "another-lib"
 description = ""
 authors = ["Ragkit <hi@ragkit.com>"]
 version = "0.0.0"
@@ -7,7 +7,6 @@ edition = "2021"
 license = "MIT"
 
 [dependencies]
-another-lib = { path = "../../crates/another-lib" }
 anyhow = { workspace = true }
 serde = { workspace = true }
 serde_json = { workspace = true }
