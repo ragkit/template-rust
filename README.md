@@ -1,7 +1,4 @@
-<h1 align="center">
-  <code>
-    template-rust
-  </code>
+<h1 align="center"><code>template-rust</code>
 </h1>
 
 <div align="center">
